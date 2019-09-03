@@ -1,0 +1,30 @@
+{
+  "policyTermsInstanceRecord" : {
+    "bankPolicyRuleType" : "bankPolicyRuleType",
+    "applicableBankPolicyRuleInterpretation" : "applicableBankPolicyRuleInterpretation",
+    "applicableBankPolicyRuleReference" : "723685"
+  },
+  "policyTermsInstanceAnalysis" : {
+    "policyTermsInstanceAnalysisReport" : {},
+    "policyTermsInstanceAnalysisParameters" : "policyTermsInstanceAnalysisParameters",
+    "policyTermsInstanceAnalysisRecord" : {},
+    "policyTermsInstanceAnalysisReportType" : "policyTermsInstanceAnalysisReportType"
+  },
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "732196",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "739289"
+  },
+  "policyTermsRetrieveActionTaskReference" : "PTRATR738747",
+  "policyTermsRetrieveActionTaskRecord" : {},
+  "policyTermsRetrieveActionResponse" : "policyTermsRetrieveActionResponse",
+  "policyTermsInstanceReport" : {
+    "policyTermsInstanceReportRecord" : {},
+    "policyTermsInstanceReportType" : "policyTermsInstanceReportType",
+    "policyTermsInstanceReportParameters" : "policyTermsInstanceReportParameters",
+    "policyTermsInstanceReport" : {}
+  }
+}

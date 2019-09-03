@@ -1,0 +1,17 @@
+{
+  "legalTermsInstanceRecord" : {
+    "applicableLawReference" : "783621",
+    "jurisdiction" : "jurisdiction"
+  },
+  "legalTermsUpdateActionTaskReference" : "LTUATR744488",
+  "legalTermsUpdateActionTaskRecord" : {},
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "780471",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "731780"
+  },
+  "updateResponseRecord" : {}
+}

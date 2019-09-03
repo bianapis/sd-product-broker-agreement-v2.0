@@ -1,0 +1,9 @@
+{
+  "regulatoryTermsInstanceReference" : "RTIR755685",
+  "regulatoryTermsInstanceRecord" : {
+    "applicableRegulationInterpretation" : "applicableRegulationInterpretation"
+  },
+  "regulatoryTermsInitiateActionReference" : "RTIAR715415",
+  "regulatoryTermsInitiateActionRecord" : {},
+  "regulatoryTermsInstanceStatus" : "regulatoryTermsInstanceStatus"
+}

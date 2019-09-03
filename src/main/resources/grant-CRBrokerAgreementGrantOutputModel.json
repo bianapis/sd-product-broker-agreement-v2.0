@@ -1,0 +1,8 @@
+{
+  "brokerAgreementGrantActionTaskReference" : "BAGATR772979",
+  "brokerAgreementGrantActionTaskRecord" : {},
+  "grantRequestResponseRecord" : {
+    "grantPermissionDetails" : "grantPermissionDetails"
+  },
+  "grantRequestRecordReference" : "GRRR761030"
+}

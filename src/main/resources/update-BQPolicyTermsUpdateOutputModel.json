@@ -1,0 +1,17 @@
+{
+  "policyTermsInstanceRecord" : {
+    "bankPolicyRuleType" : "bankPolicyRuleType",
+    "applicableBankPolicyRuleReference" : "778605"
+  },
+  "policyTermsUpdateActionTaskRecord" : {},
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "746303",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "720759"
+  },
+  "updateResponseRecord" : {},
+  "policyTermsUpdateActionTaskReference" : "PTUATR712693"
+}

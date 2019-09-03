@@ -1,0 +1,14 @@
+{
+  "requestRecordReference" : "RRR773368",
+  "brokerAgreementRequestActionTaskReference" : "BARATR799040",
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "734935",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "756973"
+  },
+  "requestResponseRecord" : {},
+  "brokerAgreementRequestActionTaskRecord" : {}
+}

@@ -1,0 +1,30 @@
+{
+  "legalTermsInstanceRecord" : {
+    "applicableLawReference" : "790927",
+    "jurisdiction" : "jurisdiction",
+    "applicableLawInterpretation" : "applicableLawInterpretation"
+  },
+  "legalTermsInstanceAnalysis" : {
+    "legalTermsInstanceAnalysisParameters" : "legalTermsInstanceAnalysisParameters",
+    "legalTermsInstanceAnalysisReport" : {},
+    "legalTermsInstanceAnalysisRecord" : {},
+    "legalTermsInstanceAnalysisReportType" : "legalTermsInstanceAnalysisReportType"
+  },
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "722810",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "792322"
+  },
+  "legalTermsRetrieveActionTaskRecord" : {},
+  "legalTermsRetrieveActionTaskReference" : "LTRATR799066",
+  "legalTermsInstanceReport" : {
+    "legalTermsInstanceReportParameters" : "legalTermsInstanceReportParameters",
+    "legalTermsInstanceReportType" : "legalTermsInstanceReportType",
+    "legalTermsInstanceReportRecord" : {},
+    "legalTermsInstanceReport" : {}
+  },
+  "legalTermsRetrieveActionResponse" : "legalTermsRetrieveActionResponse"
+}

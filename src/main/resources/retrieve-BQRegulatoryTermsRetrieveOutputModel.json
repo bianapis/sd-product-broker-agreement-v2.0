@@ -1,0 +1,30 @@
+{
+  "regulatoryTermsRetrieveActionTaskRecord" : {},
+  "regulatoryTermsInstanceRecord" : {
+    "applicableRegulationReference" : "757147",
+    "applicableRegulationInterpretation" : "applicableRegulationInterpretation",
+    "regulatoryAuthority" : "regulatoryAuthority"
+  },
+  "regulatoryTermsInstanceReport" : {
+    "regulatoryTermsInstanceReportRecord" : {},
+    "regulatoryTermsInstanceReportType" : "regulatoryTermsInstanceReportType",
+    "regulatoryTermsInstanceReport" : {},
+    "regulatoryTermsInstanceReportParameters" : "regulatoryTermsInstanceReportParameters"
+  },
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "720309",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "721694"
+  },
+  "regulatoryTermsInstanceAnalysis" : {
+    "regulatoryTermsInstanceAnalysisReportType" : "regulatoryTermsInstanceAnalysisReportType",
+    "regulatoryTermsInstanceAnalysisRecord" : {},
+    "regulatoryTermsInstanceAnalysisReport" : {},
+    "regulatoryTermsInstanceAnalysisParameters" : "regulatoryTermsInstanceAnalysisParameters"
+  },
+  "regulatoryTermsRetrieveActionResponse" : "regulatoryTermsRetrieveActionResponse",
+  "regulatoryTermsRetrieveActionTaskReference" : "RTRATR738094"
+}

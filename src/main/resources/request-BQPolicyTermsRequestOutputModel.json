@@ -1,0 +1,11 @@
+{
+  "policyTermsInstanceRecord" : {
+    "bankPolicyRuleType" : "bankPolicyRuleType",
+    "applicableBankPolicyRuleInterpretation" : "applicableBankPolicyRuleInterpretation",
+    "applicableBankPolicyRuleReference" : "777009"
+  },
+  "policyTermsRequestActionTaskRecord" : {},
+  "policyTermsRequestRecordReference" : "PTRRR706973",
+  "policyTermsRequestActionTaskReference" : "PTRATR767347",
+  "requestResponseRecord" : {}
+}

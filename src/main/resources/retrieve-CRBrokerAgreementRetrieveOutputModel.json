@@ -1,0 +1,23 @@
+{
+  "brokerAgreementRetrieveActionTaskReference" : "BARATR784766",
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "792144",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "764563"
+  },
+  "brokerAgreementInstanceReportRecord" : {
+    "brokerAgreementInstanceReportType" : "brokerAgreementInstanceReportType",
+    "brokerAgreementInstanceReportData" : "brokerAgreementInstanceReportData",
+    "brokerAgreementInstanceReport" : {}
+  },
+  "brokerAgreementRetrieveActionResponse" : "brokerAgreementRetrieveActionResponse",
+  "brokerAgreementInstanceAnalysis" : {
+    "brokerAgreementInstanceAnalysisReportType" : "brokerAgreementInstanceAnalysisReportType",
+    "brokerAgreementInstanceAnalysisData" : "brokerAgreementInstanceAnalysisData",
+    "brokerAgreementInstanceAnalysisReport" : {}
+  },
+  "brokerAgreementRetrieveActionTaskRecord" : {}
+}

@@ -1,0 +1,13 @@
+{
+  "brokerAgreementInstanceRecord" : {
+    "agreementType" : "agreementType",
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "partyReference" : "758633",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "753823"
+  },
+  "brokerAgreementUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "brokerAgreementUpdateActionTaskReference" : "BAUATR733320"
+}

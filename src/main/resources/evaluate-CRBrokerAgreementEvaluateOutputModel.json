@@ -1,0 +1,12 @@
+{
+  "brokerAgreementInstanceStatus" : "brokerAgreementInstanceStatus",
+  "brokerAgreementEvaluateActionReference" : "BAEAR795656",
+  "brokerAgreementInstanceReference" : "BAIR799758",
+  "brokerAgreementInstanceRecord" : {
+    "agreementJurisdiction" : "agreementJurisdiction",
+    "agreementValidFromToDate" : "09-22-2018",
+    "agreementSignaturesResponsibleParties" : "agreementSignaturesResponsibleParties",
+    "documentDirectoryEntryInstanceReference" : "727511"
+  },
+  "brokerAgreementEvaluateActionRecord" : {}
+}
